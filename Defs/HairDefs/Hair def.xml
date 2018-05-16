@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<HairDef>
+		<label>RimNGE_Rei</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/RimNGE_Rei</texPath>
+		<defName>RimNGE_Rei</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<label>RimNGE_Asuka</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/RimNGE_Asuka</texPath>
+		<defName>RimNGE_Asuka</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<label>RimNGE_Hikari</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/RimNGE_Hikari</texPath>
+		<defName>RimNGE_Hikari</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<label>RimNGE_Mari</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/RimNGE_Mari</texPath>
+		<defName>RimNGE_Mari</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+</Defs>
