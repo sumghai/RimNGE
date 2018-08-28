@@ -1,4 +1,4 @@
-# RimNGE (B18 / 1.0 Unstable)
+# RimNGE (B19)
 Cosmetic mod for RimWorld, which adds four iconic hairstyles from the Neon Genesis Evangelion anime franchise
 
 **Author:** Robin "sumghai" Chang (sumdumghai@gmail.com)
