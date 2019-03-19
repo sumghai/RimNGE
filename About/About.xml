@@ -4,6 +4,8 @@
 	<name>RimNGE</name>
 	<author>sumghai</author>
 	<url></url>
-	<targetVersion>1.0.2059</targetVersion>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
 	<description>Adds four iconic female hairstyles from the Neon Genesis Evangelion anime franchise.</description>
 </ModMetaData>
