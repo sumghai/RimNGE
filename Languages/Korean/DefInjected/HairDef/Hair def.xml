@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: RimNGE_Rei -->
+	<RimNGE_Rei.label>레이</RimNGE_Rei.label>
+	
+	<!-- EN: RimNGE_Asuka -->
+	<RimNGE_Asuka.label>아스카</RimNGE_Asuka.label>
+	
+	<!-- EN: RimNGE_Hikari -->
+	<RimNGE_Hikari.label>히카리</RimNGE_Hikari.label>
+	
+	<!-- EN: RimNGE_Mari -->
+	<RimNGE_Mari.label>마리</RimNGE_Mari.label>
+</LanguageData>
