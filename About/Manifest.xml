@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+	<identifier>RimNGE</identifier>
+	<version>2.1.3</version>
+	<showCrossPromotions>true</showCrossPromotions>
+	<manifestUri>https://raw.githubusercontent.com/sumghai/RimNGE/master/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/sumghai/RimNGE/releases/latest</downloadUri>
+</Manifest>
