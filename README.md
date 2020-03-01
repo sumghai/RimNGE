@@ -1,5 +1,5 @@
-# [1.0] RimNGE (2.1.3)
-Cosmetic mod for RimWorld, which adds four iconic hairstyles from the Neon Genesis Evangelion anime franchise
+# [1.0/1.1] RimNGE (2.2.0)
+Cosmetic mod for RimWorld, which adds eight iconic hairstyles from the Neon Genesis Evangelion anime franchise
 
 **Author:** Robin "sumghai" Chang (sumdumghai@gmail.com)
 
