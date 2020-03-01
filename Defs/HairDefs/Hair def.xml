@@ -1,37 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<HairDef>
-		<label>RimNGE_Rei</label>
+		<defName>RimNGE_Rei</defName>
+		<label>Rei</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Rei</texPath>
-		<defName>RimNGE_Rei</defName>
 		<hairTags>
 			<li>Urban</li>
 		</hairTags>
 	</HairDef>
 	<HairDef>
-		<label>RimNGE_Asuka</label>
+		<defName>RimNGE_Asuka</defName>
+		<label>Asuka</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Asuka</texPath>
-		<defName>RimNGE_Asuka</defName>
 		<hairTags>
 			<li>Urban</li>
 		</hairTags>
 	</HairDef>
 	<HairDef>
-		<label>RimNGE_Hikari</label>
+		<defName>RimNGE_Shinji</defName>
+		<label>Shinji</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/RimNGE_Shinji</texPath>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>RimNGE_Toji</defName>
+		<label>Toji</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/RimNGE_Toji</texPath>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>RimNGE_Kaworu</defName>
+		<label>Kaworu</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/RimNGE_Kaworu</texPath>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>RimNGE_Hikari</defName>
+		<label>Hikari</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Hikari</texPath>
-		<defName>RimNGE_Hikari</defName>
 		<hairTags>
 			<li>Urban</li>
 		</hairTags>
 	</HairDef>
 	<HairDef>
-		<label>RimNGE_Mari</label>
+		<defName>RimNGE_Mari</defName>
+		<label>Mari</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Mari</texPath>
-		<defName>RimNGE_Mari</defName>
+		<hairTags>
+			<li>Urban</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>RimNGE_Kensuke</defName>
+		<label>Kensuke</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/RimNGE_Kensuke</texPath>
 		<hairTags>
 			<li>Urban</li>
 		</hairTags>

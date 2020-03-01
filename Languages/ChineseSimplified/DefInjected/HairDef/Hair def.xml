@@ -1,15 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- EN: RimNGE_Rei -->
+	<!-- EN: Rei -->
 	<RimNGE_Rei.label>丽</RimNGE_Rei.label>
-	
-	<!-- EN: RimNGE_Asuka -->
+
+	<!-- EN: Asuka -->
 	<RimNGE_Asuka.label>明日香</RimNGE_Asuka.label>
-	
-	<!-- EN: RimNGE_Hikari -->
+
+	<!-- EN: Shinji -->
+	<RimNGE_Shinji.label>真嗣</RimNGE_Shinji.label>
+
+	<!-- EN: Toji -->
+	<RimNGE_Toji.label>冬二</RimNGE_Toji.label>
+
+	<!-- EN: Kaworu -->
+	<RimNGE_Kaworu.label>薰</RimNGE_Kaworu.label>
+
+	<!-- EN: Hikari -->
 	<RimNGE_Hikari.label>光</RimNGE_Hikari.label>
-	
-	<!-- EN: RimNGE_Mari -->
+
+	<!-- EN: Mari -->
 	<RimNGE_Mari.label>真理</RimNGE_Mari.label>
+
+	<!-- EN: Kensuke -->
+	<RimNGE_Kensuke.label>剑介</RimNGE_Kensuke.label>
+
 </LanguageData>
