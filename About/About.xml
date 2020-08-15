@@ -4,13 +4,11 @@
 	<name>RimNGE</name>
 	<author>sumghai</author>
 	<packageId>sumghai.RimNGE</packageId>
-	<description>Adds eight iconic male and female hairstyles from the Neon Genesis Evangelion anime franchise.
-	
-v2.3.0</description>
+	<description>Adds eight iconic male and female hairstyles from the Neon Genesis Evangelion anime franchise.\n\nv2.3.1</description>
 	<url></url>
 	<supportedVersions>
-		<li>1.0</li>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<modDependencies>
 		<li>
