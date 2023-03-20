@@ -1,75 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
+
 	<HairDef>
 		<defName>RimNGE_Rei</defName>
 		<label>Rei</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Rei</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Asuka</defName>
 		<label>Asuka</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Asuka</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Shinji</defName>
 		<label>Shinji</label>
 		<hairGender>Male</hairGender>
 		<texPath>Hair/RimNGE_Shinji</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Toji</defName>
 		<label>Toji</label>
 		<hairGender>Male</hairGender>
 		<texPath>Hair/RimNGE_Toji</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Kaworu</defName>
 		<label>Kaworu</label>
 		<hairGender>Male</hairGender>
 		<texPath>Hair/RimNGE_Kaworu</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Hikari</defName>
 		<label>Hikari</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Hikari</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Mari</defName>
 		<label>Mari</label>
 		<hairGender>Female</hairGender>
 		<texPath>Hair/RimNGE_Mari</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 	<HairDef>
 		<defName>RimNGE_Kensuke</defName>
 		<label>Kensuke</label>
 		<hairGender>Male</hairGender>
 		<texPath>Hair/RimNGE_Kensuke</texPath>
-		<hairTags>
+		<category>Urban</category>
+		<styleTags>
 			<li>Urban</li>
-		</hairTags>
+		</styleTags>
 	</HairDef>
+	
 </Defs>
