@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: Rei -->
+	<RimNGE_Rei.label>Рей</RimNGE_Rei.label>
+
+	<!-- EN: Asuka -->
+	<RimNGE_Asuka.label>Аска</RimNGE_Asuka.label>
+
+	<!-- EN: Shinji -->
+	<RimNGE_Shinji.label>Сіндзі</RimNGE_Shinji.label>
+
+	<!-- EN: Toji -->
+	<RimNGE_Toji.label>Тоджі</RimNGE_Toji.label>
+
+	<!-- EN: Kaworu -->
+	<RimNGE_Kaworu.label>Каору</RimNGE_Kaworu.label>
+
+	<!-- EN: Hikari -->
+	<RimNGE_Hikari.label>Хікарі</RimNGE_Hikari.label>
+
+	<!-- EN: Mari -->
+	<RimNGE_Mari.label>Марі</RimNGE_Mari.label>
+
+	<!-- EN: Kensuke -->
+	<RimNGE_Kensuke.label>Кенске</RimNGE_Kensuke.label>
+	
+</LanguageData>
