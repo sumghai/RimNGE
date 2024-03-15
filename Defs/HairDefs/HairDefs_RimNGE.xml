@@ -4,7 +4,7 @@
 	<HairDef>
 		<defName>RimNGE_Rei</defName>
 		<label>Rei</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>Hair/RimNGE_Rei</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -15,7 +15,7 @@
 	<HairDef>
 		<defName>RimNGE_Asuka</defName>
 		<label>Asuka</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>Hair/RimNGE_Asuka</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -26,7 +26,7 @@
 	<HairDef>
 		<defName>RimNGE_Shinji</defName>
 		<label>Shinji</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>Hair/RimNGE_Shinji</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -37,7 +37,7 @@
 	<HairDef>
 		<defName>RimNGE_Toji</defName>
 		<label>Toji</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>Hair/RimNGE_Toji</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -48,7 +48,7 @@
 	<HairDef>
 		<defName>RimNGE_Kaworu</defName>
 		<label>Kaworu</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>Hair/RimNGE_Kaworu</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -59,7 +59,7 @@
 	<HairDef>
 		<defName>RimNGE_Hikari</defName>
 		<label>Hikari</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>Hair/RimNGE_Hikari</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -70,7 +70,7 @@
 	<HairDef>
 		<defName>RimNGE_Mari</defName>
 		<label>Mari</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>Hair/RimNGE_Mari</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -81,7 +81,7 @@
 	<HairDef>
 		<defName>RimNGE_Kensuke</defName>
 		<label>Kensuke</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>Hair/RimNGE_Kensuke</texPath>
 		<category>Urban</category>
 		<styleTags>
