@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
+	
 	<HairDef>
 		<defName>RimNGE_Rei</defName>
 		<label>Rei</label>
@@ -23,6 +23,7 @@
 			<li>Urban</li>
 			<li>HairLong</li>
 		</styleTags>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef> <!-- for hair accessories -->
 	</HairDef>
 	
 	<HairDef>
@@ -71,6 +72,7 @@
 			<li>Urban</li>
 			<li>HairLong</li>
 		</styleTags>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef> <!-- for hair accessories -->
 	</HairDef>
 	
 	<HairDef>
@@ -83,6 +85,7 @@
 			<li>Urban</li>
 			<li>HairLong</li>
 		</styleTags>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef> <!-- for hair accessories -->
 	</HairDef>
 	
 	<HairDef>
@@ -95,6 +98,7 @@
 			<li>Urban</li>
 			<li>HairShort</li>
 		</styleTags>
+		<overrideShaderTypeDef>CutoutComplex</overrideShaderTypeDef> <!-- for hair accessories -->
 	</HairDef>
 	
 </Defs>
